@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/joaovbds4/-barreamento-de-eventos.git"
+    "url": "git+https://github.com/joaovbds4/barreamento-de-eventos.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/joaovbds4/-barreamento-de-eventos/issues"
+    "url": "https://github.com/joaovbds4/barreamento-de-eventos/issues"
   },
-  "homepage": "https://github.com/joaovbds4/-barreamento-de-eventos#readme",
+  "homepage": "https://github.com/joaovbds4/barreamento-de-eventos#readme",
   "dependencies": {
     "axios": "^0.21.1",
     "cors": "^2.8.5",
